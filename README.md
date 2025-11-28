@@ -1,2 +1,2 @@
-# hello-git
-my first git commit using github web ui
+## about 
+this project includes an about page that provides information about the application
