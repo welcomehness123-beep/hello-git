@@ -1,2 +1,2 @@
 # hello-git
-First repository
+my first git commit using github web ui
